@@ -11,6 +11,9 @@ ayorair@gmail.com
 @istills33faces (telegram)
 
 
+
+## STACK:
+
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts,git,scss)](https://skillicons.dev)
 
 
