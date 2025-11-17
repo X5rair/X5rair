@@ -6,4 +6,6 @@ ayorair@gmail.com
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts,git)](https://skillicons.dev)
-![XR stats](https://github-readme-stats.vercel.app/api?username=x5rair&hide=contribs,prs)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5rair&layout=compact&theme=radical)
