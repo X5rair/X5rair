@@ -1,4 +1,4 @@
-hi, I'm Fairushin Yan - Full-stack developer from Kazakhstan/Europe.
+# hi, I'm Fairushin Yan - Full-stack developer from Kazakhstan/Europe.
 
 Connect w/ me:
 ayorair@gmail.com
