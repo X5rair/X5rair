@@ -1,6 +1,6 @@
 hi, I'm Fairushin Yan - Full-stack developer from Kazakhstan/Europe.
 
-Connet w/ me:
+Connect w/ me:
 ayorair@gmail.com
 @istills33faces (telegram)
 
