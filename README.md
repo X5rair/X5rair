@@ -4,4 +4,5 @@ Connet w/ me:
 ayorair@gmail.com
 @istills33faces (telegram)
 
+My stack:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts)](https://skillicons.dev)
