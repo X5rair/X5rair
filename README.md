@@ -5,4 +5,4 @@ ayorair@gmail.com
 @istills33faces (telegram)
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts,git)](https://skillicons.dev)
