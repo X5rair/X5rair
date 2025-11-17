@@ -6,4 +6,4 @@ ayorair@gmail.com
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,gitlab,ts,git)](https://skillicons.dev)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![XR stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
