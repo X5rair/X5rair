@@ -2,9 +2,9 @@
 
 ## About Me
 
-I enjoy coming up with creative ideas and turning them into something real.    
-Curiosity drives me to experiment, solve challenging problems, and improve my knowledge every day.  
-I’m always open to discovering new approaches and finding better ways to build software.
+### I enjoy coming up with creative ideas and turning them into something real.    
+### Curiosity drives me to experiment, solve challenging problems, and improve my knowledge every day.  
+### I’m always open to discovering new approaches and finding better ways to build software.
 
 
 ### Connect w/ me:
