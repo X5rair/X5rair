@@ -19,6 +19,8 @@ ayorair@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5rair&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=X5rair&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=X5rair&theme=dark)
+
 
 
