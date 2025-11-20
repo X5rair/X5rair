@@ -20,7 +20,8 @@ ayorair@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5rair&layout=compact&theme=radical)
 
 
-![X5rair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X5rair&show_icons=true&theme=radical)
+![GitHub Contribution Calendar](https://github.com/X5rair.png?tab=overview&theme=dark)
+
 
 
 
