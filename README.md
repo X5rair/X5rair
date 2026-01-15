@@ -15,8 +15,8 @@ ayorair@gmail.com
 ## STACK:
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,scss,html,gitlab,git)](https://skillicons.dev)
+![X5rair GitHub stats](https://github-readme-stats.vercel.app/api?username=x5rair&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x5rair&theme=tokyonight)
 
 
 
